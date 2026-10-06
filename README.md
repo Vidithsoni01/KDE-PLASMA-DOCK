@@ -1,4 +1,4 @@
-# KDE Plasma Enhanced Panel 🚀
+# KDE Plasma Enhanced Panel 
 
 A highly customized and performance-optimized KDE Plasma panel with modern animations and visual enhancements.
 
@@ -69,10 +69,6 @@ This enhanced panel brings a premium desktop experience with the following impro
    # Or for Plasma 6:
    kquitapp6 plasmashell && kstart plasmashell
    ```
-
-## 🎥 Demo
-
-*Add screenshots or GIFs here showing the hover effects, animations, and overall improvements*
 
 ## 📝 Customization
 
